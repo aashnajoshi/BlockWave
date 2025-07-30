@@ -1,5 +1,5 @@
 # BlockWave
-This project demonstrates the integration of R with Python to create visualizations using the ggplot2 package. It generates a scatter plot of the `mtcars` dataset.
+BlockWave demonstrates the integration of R with Python to create visualizations using the ggplot2 package. It generates a scatter plot of the mtcars dataset, comparing weight (wt) and miles per gallon (mpg), and displays the result within a Python environment.
 
 ## Features
 - Integrates R's ggplot2 library for data visualization.
